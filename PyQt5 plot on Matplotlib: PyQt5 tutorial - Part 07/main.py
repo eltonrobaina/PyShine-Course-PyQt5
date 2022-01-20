@@ -125,13 +125,6 @@ class Ui_MainWindow(object):
         ax.set_ylabel('Y axis')
         ax.set_title('Title')
         self.canv.draw()
-
-
-
-
-
-
-
     
     def getFile(self):
         """ This function will get the address of the csv file location
